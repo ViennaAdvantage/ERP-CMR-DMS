@@ -1,0 +1,140 @@
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\ViennaAdvantageWeb.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\ViennaAdvantageWeb.pdb
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\Antlr3.Runtime.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\HtmlWebHelper.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\IKVM.Runtime.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\Market.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\MarketSvc.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\ModelLibrary.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\Mono.Security.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\Newtonsoft.Json.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\Npgsql.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Net.Http.Formatting.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Helpers.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Http.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Http.Tracing.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Http.WebHost.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Mvc.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Optimization.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Razor.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.WebPages.Deployment.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.WebPages.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.WebPages.Razor.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\ViennaBase.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\VIS.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\WebGrease.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\Ionic.Zip.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\CrystalDecisions.Shared.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\itextsharp.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\HtmlWebHelper.pdb
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\MarketSvc.pdb
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\MarketSvc.xml
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\Market.pdb
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\Market.xml
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\ModelLibrary.pdb
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\ViennaBase.pdb
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\VIS.pdb
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\Antlr3.Runtime.pdb
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\Newtonsoft.Json.xml
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Net.Http.Formatting.xml
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Helpers.xml
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Http.xml
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Http.Tracing.xml
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Http.WebHost.xml
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Mvc.xml
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Optimization.xml
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Razor.xml
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.WebPages.xml
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.WebPages.Deployment.xml
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.WebPages.Razor.xml
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.csprojResolveAssemblyReference.cache
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.pdb
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\ViennaAdvantageWeb.dll
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\ViennaAdvantageWeb.pdb
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\Antlr3.Runtime.dll
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\ModelLibrary.dll
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\Newtonsoft.Json.dll
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Net.Http.Formatting.dll
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Helpers.dll
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Http.dll
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Http.Tracing.dll
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Http.WebHost.dll
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Mvc.dll
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Optimization.dll
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Razor.dll
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.WebPages.Deployment.dll
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.WebPages.dll
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.WebPages.Razor.dll
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\ViennaBase.dll
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\VIS.dll
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\WebGrease.dll
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\itextsharp.dll
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\ModelLibrary.pdb
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\ViennaBase.pdb
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\VIS.pdb
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\Antlr3.Runtime.pdb
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\Newtonsoft.Json.xml
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Net.Http.Formatting.xml
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Helpers.xml
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Http.xml
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Http.Tracing.xml
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Http.WebHost.xml
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Mvc.xml
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Optimization.xml
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Razor.xml
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.WebPages.xml
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.WebPages.Deployment.xml
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.WebPages.Razor.xml
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.csprojResolveAssemblyReference.cache
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.dll
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.pdb
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\CrystalDecisions.CrystalReports.Engine.dll
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\CrystalDecisions.Shared.dll
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\SecureEngineUtility.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\ViennaAdvantageWeb.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\ViennaAdvantageWeb.pdb
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\Antlr3.Runtime.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\ModelLibrary.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\Newtonsoft.Json.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Net.Http.Formatting.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Helpers.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Http.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Http.Tracing.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Http.WebHost.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Mvc.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Optimization.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Razor.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.WebPages.Deployment.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.WebPages.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.WebPages.Razor.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\ViennaBase.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\VIS.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\WebGrease.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\SecureEngineUtility.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\CrystalDecisions.Shared.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\itextsharp.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\ModelLibrary.pdb
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\ViennaBase.pdb
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\VIS.pdb
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\Antlr3.Runtime.pdb
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\Newtonsoft.Json.xml
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Net.Http.Formatting.xml
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Helpers.xml
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Http.xml
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Http.Tracing.xml
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Http.WebHost.xml
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Mvc.xml
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Optimization.xml
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.Razor.xml
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.WebPages.xml
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.WebPages.Deployment.xml
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\bin\System.Web.WebPages.Razor.xml
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.csprojResolveAssemblyReference.cache
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ViennaAdvantageWeb\obj\Debug\ViennaAdvantageWeb.pdb

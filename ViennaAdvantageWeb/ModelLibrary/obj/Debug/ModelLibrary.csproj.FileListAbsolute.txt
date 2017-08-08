@@ -1,0 +1,42 @@
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ModelLibrary\bin\Debug\ModelLibrary.dll.config
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ModelLibrary\bin\Debug\ModelLibrary.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ModelLibrary\bin\Debug\ModelLibrary.pdb
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ModelLibrary\bin\Debug\System.Web.Helpers.3.0.0.0.Fakes.fakesconfig
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ModelLibrary\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ModelLibrary\bin\Debug\System.Web.Optimization.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ModelLibrary\bin\Debug\System.Web.Optimization.xml
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ModelLibrary\obj\Debug\ModelLibrary.Properties.Resources.resources
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ModelLibrary\obj\Debug\ModelLibrary.csproj.GenerateResource.Cache
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ModelLibrary\obj\Debug\ModelLibrary.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ModelLibrary\obj\Debug\ModelLibrary.pdb
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ModelLibrary\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ModelLibrary\bin\Debug\CrystalDecisions.Shared.dll
+D:\TFS HTML\TFS HTML\VAdvantage\ViennaAdvantageWeb\ModelLibrary\obj\Debug\ModelLibrary.csprojFakesResolveAssemblyReference.cache
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ModelLibrary\obj\Debug\ModelLibrary.csprojFakesResolveAssemblyReference.cache
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ModelLibrary\obj\Debug\ModelLibrary.csprojResolveAssemblyReference.cache
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ModelLibrary\obj\Debug\ModelLibrary.Properties.Resources.resources
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ModelLibrary\obj\Debug\ModelLibrary.csproj.GenerateResource.Cache
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ModelLibrary\bin\Debug\ModelLibrary.dll.config
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ModelLibrary\bin\Debug\ModelLibrary.dll
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ModelLibrary\bin\Debug\ModelLibrary.pdb
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ModelLibrary\bin\Debug\System.Web.Helpers.3.0.0.0.Fakes.fakesconfig
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ModelLibrary\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ModelLibrary\bin\Debug\System.Web.Optimization.dll
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ModelLibrary\bin\Debug\System.Web.Optimization.xml
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ModelLibrary\obj\Debug\ModelLibrary.dll
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ModelLibrary\obj\Debug\ModelLibrary.pdb
+E:\TFS HTML\ReleasedCode\ViennaAdvantageWeb\ModelLibrary\bin\Debug\SecureEngineUtility.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ModelLibrary\bin\Debug\ModelLibrary.dll.config
+D:\Released Files\Released Code\ViennaAdvantageWeb\ModelLibrary\bin\Debug\ModelLibrary.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ModelLibrary\bin\Debug\ModelLibrary.pdb
+D:\Released Files\Released Code\ViennaAdvantageWeb\ModelLibrary\bin\Debug\System.Web.Helpers.3.0.0.0.Fakes.fakesconfig
+D:\Released Files\Released Code\ViennaAdvantageWeb\ModelLibrary\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ModelLibrary\bin\Debug\SecureEngineUtility.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ModelLibrary\bin\Debug\System.Web.Optimization.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ModelLibrary\bin\Debug\System.Web.Optimization.xml
+D:\Released Files\Released Code\ViennaAdvantageWeb\ModelLibrary\obj\Debug\ModelLibrary.csprojFakesResolveAssemblyReference.cache
+D:\Released Files\Released Code\ViennaAdvantageWeb\ModelLibrary\obj\Debug\ModelLibrary.csprojResolveAssemblyReference.cache
+D:\Released Files\Released Code\ViennaAdvantageWeb\ModelLibrary\obj\Debug\ModelLibrary.Properties.Resources.resources
+D:\Released Files\Released Code\ViennaAdvantageWeb\ModelLibrary\obj\Debug\ModelLibrary.csproj.GenerateResource.Cache
+D:\Released Files\Released Code\ViennaAdvantageWeb\ModelLibrary\obj\Debug\ModelLibrary.dll
+D:\Released Files\Released Code\ViennaAdvantageWeb\ModelLibrary\obj\Debug\ModelLibrary.pdb
