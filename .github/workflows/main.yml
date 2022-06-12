@@ -3,7 +3,7 @@ name: gcp-storage-sync
 on:
   push:
     branches:
-      - master
+      - development
 
 jobs:
   deploy:
