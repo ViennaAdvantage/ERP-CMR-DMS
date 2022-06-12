@@ -16,4 +16,4 @@ jobs:
         env:
           GCP_SERVICE_ACCOUNT_KEY_FILE: ${{ secrets.GCP_SERVICE_ACCOUNT_KEY_FILE }}
           GCP_STORAGE_BUCKET: ${{ secrets.GCP_STORAGE_BUCKET }}
-          SOURCE_DIR: "ERP-CMR-DMS"
+          SOURCE_DIR: "ViennaAdvantageWeb"
